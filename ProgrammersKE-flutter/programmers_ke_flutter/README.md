@@ -1,6 +1,6 @@
 # programmers_ke_flutter
 
-ProgrammersKE but an Android/iOS version of the web application
+A new Flutter project.
 
 ## Getting Started
 
